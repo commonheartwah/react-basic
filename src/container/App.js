@@ -16,9 +16,9 @@ class App extends Component {
     */
     this.state = {
       persons:[
-        {id:1,name:"米斯特吴",count:52},
-        {id:2,name:"Henry",count:5},
-        {id:3,name:"Hemiah",count:15}
+        {id:1,name:"balabala",count:52},
+        {id:2,name:"heheda",count:5},
+        {id:3,name:"coder",count:15}
       ],
       otherState:"anything",
       showPersons:false
